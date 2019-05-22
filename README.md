@@ -5,11 +5,8 @@ Developed reversi in C as a software engineering project
 ## Getting Started
 
 Use git clone or download project
-Open terminal and locate where file is kept
-.. 
-cd /path_to_file/myfile
-..
-Compile the project
+
+Import project into CodeBlocks
 
 ### Prerequisites
 
@@ -17,21 +14,7 @@ Terminal
 
 ### Installing
 
-A step by step series of examples that tell you how to get a development env running
 
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
 
 ## Built With
 
