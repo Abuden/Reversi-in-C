@@ -22,8 +22,8 @@ Terminal
 
 ## Authors
 
-* **Braddy Yeoh** - *Initial work* - [Abuden](https://github.com/PurpleBooth)
-* **Goh Ee En** - *Initial work* - [GohEeEn](https://github.com/GohEeEn)
+* **Braddy Yeoh** - [Abuden](https://github.com/PurpleBooth)
+* **Goh Ee En** - [GohEeEn](https://github.com/GohEeEn)
 
 ## Acknowledgments
 
