@@ -4,17 +4,17 @@ Developed reversi in C as a software engineering project
 
 ## Getting Started
 
-Use git clone or download project
+- Use git clone or download project
 
-Import project into CodeBlocks
+- Open codeblocks
+
+- Import existing project
+
+- Select FinalFinal.cbp
 
 ### Prerequisites
 
-Terminal
-
-### Installing
-
-
+Codeblocks
 
 ## Built With
 
